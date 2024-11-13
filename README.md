@@ -4,9 +4,9 @@ Workshop example repository for November 2024 series
 
 Fill in the list!
 
-Whats your favourite animal?2
+Whats your favourite animal?
  
-1. 
+1. Tiger
 2. 
 3.  
 4. 
