@@ -2,5 +2,3 @@
 Workshop example repository for November 2024 series
 
 Some new different words
-
-Animals are cool!
