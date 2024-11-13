@@ -11,5 +11,6 @@ Whats your favourite animal?2
 3. Dope pigeons
 4. Regular pigeons
 5. 🐶
+6. Cat
 
 
