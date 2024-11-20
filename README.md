@@ -1,10 +1,13 @@
 # GitHub-Repository-Nov2024
 Workshop example repository for November 2024 series
 
+[Link to Google](https://www.google.ca)
 
-Fill in the list!
+![A picture of Daniel Brett and a Lizard reading a book](Daniel_Headshot_Library_Reduced.jpg)
 
-Whats your favourite animal?
+*Fill in the list!*
+
+**Whats your favourite animal?**
  
 1. Insanely mad drippin' pigeons
 2. Super cool pigeons
