@@ -1,6 +1,8 @@
 # GitHub-Repository-Nov2024
 Workshop example repository for November 2024 series
 
+This is so cool
+
 [Link to Google](https://www.google.ca)
 
 ![A picture of Daniel Brett and a Lizard reading a book](Daniel_Headshot_Library_Reduced.jpg)
