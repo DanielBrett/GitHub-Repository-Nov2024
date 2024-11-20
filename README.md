@@ -16,3 +16,5 @@ Workshop example repository for November 2024 series
 5. 🐶
 6. Cat
 7. Tiger
+
+![Picture of a noble pigeon](https://images.pexels.com/photos/596792/pexels-photo-596792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
