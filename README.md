@@ -1,14 +1,26 @@
 # GitHub-Repository-Nov2024
 Workshop example repository for November 2024 series
 
-![an image file]()
 
-Fill in the list!
+This is so cool
 
-Whats your favourite animal?2
+
+[Link to Google](https://www.google.ca)
+
+![A picture of Daniel Brett and a Lizard reading a book](Daniel_Headshot_Library_Reduced.jpg)
+
+*Fill in the list!*
+
+**Whats your favourite animal?**
  
-1. Dogs
-2. Cats
-3. Eagles 
-4. Thanks for the GitHub Demo
+1. Insanely mad drippin' pigeons
+2. Super cool pigeons
+3. Dope pigeons
+4. Regular pigeons
+5. 🐶
+6. Cat
+7. Tiger
+8. Eagles 
 
+
+![Picture of a noble pigeon](https://images.pexels.com/photos/596792/pexels-photo-596792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
