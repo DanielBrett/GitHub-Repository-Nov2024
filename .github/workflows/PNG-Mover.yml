@@ -1,0 +1,26 @@
+name: PNG Image Mover
+
+on:
+  push:
+    paths:
+      "**.png"
+  
+  workflow_dispatch:
+
+jobs:
+  move-pngs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Move png files to Images folder
+        run: mv *.png Images/
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "DanielBrett"
+          git config --global user.email "dbrett@brocku.ca"
+          git add .
+          git commit -m "JPG Mover was activated"
+          git push
